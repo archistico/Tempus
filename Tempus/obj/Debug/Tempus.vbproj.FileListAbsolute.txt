@@ -1,0 +1,9 @@
+D:\CloudStation\Programmazione\Tempus\Tempus\bin\Debug\Tempus.exe
+D:\CloudStation\Programmazione\Tempus\Tempus\bin\Debug\Tempus.pdb
+D:\CloudStation\Programmazione\Tempus\Tempus\bin\Debug\Tempus.xml
+D:\CloudStation\Programmazione\Tempus\Tempus\obj\Debug\Tempus.frmTempus.resources
+D:\CloudStation\Programmazione\Tempus\Tempus\obj\Debug\Tempus.Resources.resources
+D:\CloudStation\Programmazione\Tempus\Tempus\obj\Debug\Tempus.vbproj.GenerateResource.Cache
+D:\CloudStation\Programmazione\Tempus\Tempus\obj\Debug\Tempus.exe
+D:\CloudStation\Programmazione\Tempus\Tempus\obj\Debug\Tempus.xml
+D:\CloudStation\Programmazione\Tempus\Tempus\obj\Debug\Tempus.pdb
